@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    width: 240px;
+    margin-left: 550px;
+}
+button {
+    color: black;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background: transparent;
+    padding: 20px 30px;
+    margin-left: -188px;
+    margin-top: 120px;
+    cursor: pointer;
+}
+button a {
+    color: white;
+    background: black;
+    text-decoration: none;
+}
+button:hover{ 
+    color: white;
+    background-color: black;
+}
+
+#navbar {
+    text-align: center;
+    margin-top: 60px;
+}
+#navbar a {
+    font-size: 25px;
+    color: white;
+    background: black;
+    padding: 0px 35px;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#navbar a:hover {
+    color: black;
+    background: white;
+}
+.picture {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding: 0px 30px;
+}
+.end {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Padauk', sans-serif;
+    margin-top: 80px;
+}
+.heading4 {
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 70px;
+}
+.head1 {
+    margin-bottom: 30px;
+}
+.head2 {
+    margin-bottom: 30px;
+}
+.picture1 {
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-bottom: 100px;
+    padding: 0px 40px;
+}
+.head2 {
+    margin-bottom: 30px;
+}
+.picture2 {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding: 0px 15px;
+}
+.picture3 {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding: 0px 15px;
+}
+.head4 {
+    margin-bottom: 30px;
+}
+.picture4 {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding: 0px 7px;
+}
+.head5 {
+    margin-bottom: 30px;
+}
+hr {
+    margin-bottom: 30px;
+}

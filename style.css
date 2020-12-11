@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width: 100%;
+}
+.heading {
+    text-align: center;
+    margin-top: -750px;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 55px;
+    text-shadow: 3px 3px maroon;
+    text-decoration: underline;
+}
+.heading1 {
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    font-family: 'Padauk', sans-serif;
+    margin-top: 450px;
+}
+.container {
+    position: transparent;
+}
+/* .container .btn {
+    background: transparent;
+    border: 2px solid white;
+    padding: 10px 20px;
+    margin-left: 41%;
+}
+.container .btn a {
+    color: white;
+    text-decoration: none;
+}
+.container .btn:hover {
+    color: black;
+    background: white; */
+/* } */
+.container button {
+    color: white;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 460px;
+    margin-top: 20px;
+}
+.container button:hover {
+      color: black;
+      background: white;
+}
+.container .btn1 {
+    color: white;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 5px;
+}
+.container .btn1:hover 
+{
+    color: black;
+    background: white;
+}
+.container1 {
+    margin-top: 30px;
+    margin-left: 500px;
+}
+.container1 .heading2 {
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    font-family: 'Padauk', sans-serif;
+    margin-left: -490px;
+}
+.container1 button {
+    margin-top: 10px;
+}
